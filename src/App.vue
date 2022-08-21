@@ -1,4 +1,5 @@
 <template>
+  <h1>Hong^.^</h1>
   <AppNavigation />
   <RouterView />
   <AppFooter />
